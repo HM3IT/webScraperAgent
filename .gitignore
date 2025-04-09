@@ -12,3 +12,6 @@ wheels/
 .env
 downloads/
 redvid_temp/
+client_secrets.json
+
+token.json
