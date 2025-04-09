@@ -10,4 +10,4 @@ uv sync
 ```
 This command will create a virtual environment (if one doesn't exist) and install all dependencies specified in your pyproject.toml and uv.lock files.
 
-Note: Ensure that your project contains a pyproject.toml file with the necessary configurations. For more details on working with projects using uv, refer to the (official documentation)[https://docs.astral.sh/uv/guides/projects/].
+Note: Ensure that your project contains a pyproject.toml file with the necessary configurations. For more details on working with projects using uv, refer to the [official documentation](https://docs.astral.sh/uv/guides/projects/).
